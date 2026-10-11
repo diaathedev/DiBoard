@@ -1,8 +1,0 @@
-# Smart Teaching Board - Requirements
-# Python 3.10+ recommended
-
-PySide6>=6.6.0
-PyMuPDF>=1.23.0       # High-performance PDF rendering (fitz)
-Pillow>=10.1.0        # Image handling
-python-pptx>=0.6.23   # PowerPoint (.pptx) slide extraction
-reportlab>=4.0.0      # PDF export support

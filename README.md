@@ -14,6 +14,10 @@ A distraction-free infinite whiteboard and document presenter for teachers, smar
    ```
    *(You can also run directly with: `python smart_teaching_board/main.py`)*
 
+<img width="1366" height="768" alt="screenshot_20261012_022243" src="https://github.com/user-attachments/assets/c579f1e8-9cf5-4688-ac40-dd8e4223b880" />
+
+
+
 ## Key Features & Controls
 - **Toolbar Toggle (Arrow Button)**: Click the **◀** arrow button at the top of the toolbar or press **T** on the keyboard to minimize/hide the toolbar for a completely unobstructed view. Click **▶** to expand it back anytime.
 - **Pen Tool**: Smooth anti-aliased drawing over empty board, imported PDFs, images, and slides.
